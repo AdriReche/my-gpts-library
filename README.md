@@ -15,3 +15,7 @@ standardized format.
 ### personal-diary-assistant
 
 Assistant that transcribes Spanish audio word for word to help you keep a written personal diary, correcting only spelling, punctuation, and structure for clarity.
+
+### newsletter-summary
+
+Assistant that reads articles or newsletters from provided links and returns a medium-length summary in English, highlighting key ideas and relevant context.
