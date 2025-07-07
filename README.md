@@ -11,3 +11,7 @@ specific needs.
 
 Assistant that helps write Pull Request descriptions in English based on associated tickets, ensuring a professional and 
 standardized format.
+
+### personal-diary-assistant
+
+Assistant that transcribes Spanish audio word for word to help you keep a written personal diary, correcting only spelling, punctuation, and structure for clarity.
