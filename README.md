@@ -23,3 +23,8 @@ Assistant that reads articles or newsletters from provided links and returns a m
 ### markdown-generator
 
 Assistant that converts plain text into well-structured Markdown, correcting only obvious spelling mistakes and preserving the original structure and content.
+
+
+### ticket-explanation-assistant
+Assistant that rewrites technical texts (such as tickets, bugs, enhancements, or functional explanations) to make them clearer, more structured, and easier to understand, without losing technical accuracy. It uses formatting, suggests a representative title, and provides an English translation.
+
