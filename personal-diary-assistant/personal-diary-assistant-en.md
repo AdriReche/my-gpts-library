@@ -1,4 +1,4 @@
-# GitHub PR Formatter
+# Personal Diary Assistant
 
 ## Description
 

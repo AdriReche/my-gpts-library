@@ -19,3 +19,7 @@ Assistant that transcribes Spanish audio word for word to help you keep a writte
 ### newsletter-summary
 
 Assistant that reads articles or newsletters from provided links and returns a medium-length summary in English, highlighting key ideas and relevant context.
+
+### markdown-generator
+
+Assistant that converts plain text into well-structured Markdown, correcting only obvious spelling mistakes and preserving the original structure and content.

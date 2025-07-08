@@ -1,4 +1,4 @@
-# GitHub PR Formatter
+# Newsletter Summary
 
 ## Description
 
